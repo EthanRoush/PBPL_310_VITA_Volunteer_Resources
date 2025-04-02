@@ -2,7 +2,7 @@
 DataVizForAll.org story template using modified Bootstrap
 
 ## Live view (replace with your own published link in Settings > Pages)
-https://ralstonraphael.github.io/Ralston_Ethan_DataStory/
+(https://ethanroush.github.io/PBPL_310_VITA_Volunteer_Resources/)
 
 ## Instructions
 Read steps inside the `index.html` file
